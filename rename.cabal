@@ -1,0 +1,9 @@
+Name:                rename
+Version:             0.0
+Description:         Rename you files in editors
+License:             BSD
+License-file:        LICENSE
+Author:              Libor Wagner
+Maintainer:          liborwagner@cmp.felk.cvut.cz
+Build-Type:          Simple
+Cabal-Version:       >=1.2
