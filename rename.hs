@@ -1,5 +1,10 @@
--- Rename multiple files using editor.
+-- rename.hs
 --
+-- Rename multiple files using your favorite editor. For simplicity, EDITOR and
+-- VISUAL variables are tested then is used vim as a default.
+--
+-- Libor Wagner January 31, 2013
+
 module Main where
 
 import System.Cmd

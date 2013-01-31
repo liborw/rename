@@ -7,3 +7,6 @@ Author:              Libor Wagner
 Maintainer:          liborwagner@cmp.felk.cvut.cz
 Build-Type:          Simple
 Cabal-Version:       >=1.2
+Executable rename
+  Main-is:           rename.hs
+  Build-Depends:     base >= 3 && < 5, directory >= 1.0 && < 1.3, process >= 1.0 && < 1.2
