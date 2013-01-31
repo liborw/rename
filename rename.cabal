@@ -5,6 +5,7 @@ License:             BSD
 License-file:        LICENSE
 Author:              Libor Wagner
 Maintainer:          liborwagner@cmp.felk.cvut.cz
+homepage:         https://github.com/liborw/rename
 Build-Type:          Simple
 Cabal-Version:       >=1.2
 Executable rename
